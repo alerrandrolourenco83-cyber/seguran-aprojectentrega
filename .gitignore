@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+chave_privada.pem
+chave_publica.pem
+mensagem_criptografada.json
+.venv/
+venv/
