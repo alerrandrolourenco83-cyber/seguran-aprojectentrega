@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lista de tarefas</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main class="app">
+    <a class="voltar" href="../../index.html#portfolio">&larr; Voltar ao portfólio</a>
+    <h1>Lista de tarefas</h1>
+    <form id="form" autocomplete="off">
+      <label for="nova" class="sr">Nova tarefa</label>
+      <input type="text" id="nova" placeholder="Digite uma tarefa..." maxlength="100">
+      <button type="submit">Adicionar</button>
+    </form>
+    <p class="aviso" id="aviso" role="alert"></p>
+    <ul id="lista"></ul>
+    <p class="contador" id="contador"></p>
+  </main>
+  <script src="script.js"></script>
+</body>
+</html>

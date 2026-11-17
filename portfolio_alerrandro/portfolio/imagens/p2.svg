@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240" role="img" aria-label="Lâmpada">
+  <rect width="400" height="240" fill="#f6f3ec"/>
+  <g stroke="#e0b84a" stroke-width="6" stroke-linecap="round">
+    <line x1="200" y1="14" x2="200" y2="34"/><line x1="130" y1="40" x2="144" y2="54"/><line x1="270" y1="40" x2="256" y2="54"/>
+    <line x1="106" y1="100" x2="126" y2="100"/><line x1="294" y1="100" x2="274" y2="100"/>
+  </g>
+  <path d="M200 52 C150 52 128 90 144 126 C152 144 166 152 166 170 L234 170 C234 152 248 144 256 126 C272 90 250 52 200 52 Z" fill="#ffe27a" stroke="#5c0606" stroke-width="6"/>
+  <rect x="168" y="172" width="64" height="12" rx="4" fill="#5c0606"/>
+  <rect x="172" y="188" width="56" height="12" rx="4" fill="#000"/>
+  <rect x="182" y="202" width="36" height="12" rx="6" fill="#5c0606"/>
+</svg>
